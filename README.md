@@ -181,7 +181,7 @@ Ferramentas
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedropj00&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjoaopedr0&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -298,7 +298,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 🔗 **LinkedIn:** www.linkedin.com/in/ojoaosouzar/
 
-🐙 **GitHub:** github.com/jpedropj00
+🐙 **GitHub:** github.com/devjoaopedr0
 
 ---
 
