@@ -1,7 +1,3 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="" width="100%" />
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+JOÃO+PEDRO;FULL+STACK+DEVELOPER;BACK-END+%7C+JAVA+%7C+SPRING+BOOT;AI+%7C+WEB+%7C+IoT;BUILDING+THE+FUTURE+WITH+CODE+🚀" />
